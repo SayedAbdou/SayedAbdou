@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Web Application Penetration Testing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: through email
+- 📫 How to reach me: sayedabdou93@gmail.com
 
 <!---
 SayedAbdou/SayedAbdou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
