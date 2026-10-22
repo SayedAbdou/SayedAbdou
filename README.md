@@ -4,7 +4,7 @@
 
 ### AI Red Team Expert · Cybersecurity Analyst · Penetration Tester
 
-**I break AI systems and web apps — with permission — then teach people how to fix them.**
+**I break AI systems and web apps - with permission - then teach people how to fix them.**
 
 [![Website](https://img.shields.io/badge/Website-sayedabdou.com-2ea44f?style=for-the-badge)](https://www.sayedabdou.com)
 [![Email](https://img.shields.io/badge/Email-work%40sayedabdou.com-db4437?style=for-the-badge)](mailto:work@sayedabdou.com)
@@ -79,7 +79,7 @@
 
 ## 📫 Let's Connect
 
-I'm always open to discussing AI security, bug bounty, and automation — or a good CTF story.
+I'm always open to discussing AI security, bug bounty, and automation - or a good CTF story.
 
 [![Website](https://img.shields.io/badge/Website-2ea44f?style=for-the-badge)](https://www.sayedabdou.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SayedAbdou)
